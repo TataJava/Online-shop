@@ -1,0 +1,53 @@
+﻿id,name,description,price
+1,Scrambled Egg Curry,ข้าวแกงกะหรี่หน้าไข่,145
+2,Seafood Omelet Curry,ข้าวแกงกะหรี่หน้าไข่ ซีฟู้ด,235
+3,Pork Cutlet Omelet Curry,ข้าวแกงกะหรี่หน้าไข่หมูทอด,230
+4,Chicken Cutlet Omelet Curry,ข้าวแกงกะหรี่หน้าไข่ ไก่ชุบเกล็ดขนมปังทอด,230
+5,Creamed Mushroom Omelet Curry,ข้าวแกงกะหรี่หน้าไข่ ครีมเห็ด,230
+6,Creamed Chicken Omelet Curry,ข้าวแกงกะหรี่หน้าไข่ ครีมไก่,245
+7,Beef Omelet Curry,ข้าวแกงกะหรี่หน้าไข่ เนื้อวัว,255
+8,Fried Salmon Omelet Curry,ข้าวแกงกะหรี่หน้าไข่ ปลาแซลมอน,295
+9,Fried Chicken Omelet Curry,ข้าวแกงกะหรี่หน้าไข่ ไก่ทอด,215
+10,Clam & Tomato Omelet Curry,ข้าวแกงกะหรี่หน้าไข่ หอยลายและมะเขือเทศสับ,210
+11,Vegetable Omelet Curry,ข้าวแกงกะหรี่หน้าไข่ ผักรวม,205
+12,Crispy Pork Curry,ข้าวแกงกะหรี่หมูกรอบ,285
+13,Kurobuta Steak Curry,ข้าวแกงกะหรี่สเต็กหมูคุโรบูตะ,265
+14,Stir-Fried Pork With Oyster Sauce Curry,ช้าวแกงกะหรี่หมูผัดซอสน้ำมันหอย,215
+15,Hamburg Cheese Curry,ข้าวแกงกะหรี่แฮมเบิร์กชีส,260
+16,Pork Cutlet Curry,ข้าวแกงกะหรี่หมูชุบเกล็ดขนมปังทอด,210
+17,Pork Sausage Curry,ข้าวแกงกะหรี่ไส้กรอกหมู,200
+18,Beef Curry,ข้าวแกงกะหรี่เนื้อวัว,235
+19,Fried Chicken Curry,ข้าวแกงกะหรี่ไก่ทอด,210
+20,Chicken Cutlet Curry,ข้าวแกงกะหรี่ไก่ชุบเกล็ดขนมปังทอด,210
+21,Chicken Steak Curry,ข้าวแกงกะหรี่สเต็กไก่,205
+22,Crisped Chicken Curry,ข้าวแกงกะหรี่ไก่กรอบ,210
+23,Sliced Boiled Beef Curry,ข้าวแกงกะหรี่ชาบูเนื้อ,225
+24,Sliced Boiled Pork Curry,ข้าวแกงกะหรี่ชาบูหมู,185
+25,Pork Cutlet with Vegetable Curry,ข้าวแกงกะหรี่หมูชุบเกล็ดขนมปังทอดและผักรวม,270
+26,Pork Cutlet Curry with Cheese,ข้าวแกงกะหรี่หมูชุบเกล็ดขนมปังทอดและชีส,210
+27,Beef Diced Steak Curry,ข้าวแกงกะหรี่สเต๊กเนื้อหั่นเต๋า,220
+28,Stir-Fried Shrimp With Oyster Sauce Curry,ข้าวแกงกะหรี่กุ้งผัดน้ำมันหอย,235
+29,Seabass Steak Curry,ข้าวแกงกะหรี่สเต็กปลากะพง,260
+30,Fried Calamari Curry,ข้าวแกงกะหรี่ปลาหมึกชุบแป้งทอด,250
+31,Shrimp Cutlet Curry,ข้าวแกงกะหรี่กุ้งสับชุบเกล็ดขนมปังทอด,220
+32,Fried Shrimp Curry,ข้าวแกงกะหรี่กุ้งชุบเกล็ดขนมปังทอด,220
+33,Fried Salmon Curry,ข้าวแกงกะหรี่ปลาแซลมอนชุบเกล็ดขนมปังทอด,275
+34,Clam Curry,ข้าวแกงกะหรี่หอยลาย,170
+35,Seafood Curry,ข้าวแกงกะหรี่ซีฟู้ด,215
+36,Clam & Tomato Curry,ข้าวแกงกะหรี่หอยลายและมะเขือเทศสับ,190
+37,Fried Squid Curry,ข้าวแกงกะหรี่หนวดปลาหมึกชุบแป้งทอด,200
+38,Eggplant & Minced Chicken Curry,ช้าวแกงกะหรี่มะเขือม่วงและไก่สับ,175
+39,Mushroom Curry,ข้าวแกงกะหรี่หน้าเห็ดรวม,155
+40,Grilled Bacon Spinach & Corn Curry,ข้าวแกงกะหรี่เบคอนผักโขมและข้าวโพด,170
+41,Eggplant Curry With Spinach,ข้าวแกงกะหรี่มะเขือม่วงและผักโขม,185
+42,Kimchi & Pork Curry,ข้าวแกงกะหรี่กิมจิผัดหมู,205
+43,"Namban Chicken with
+Tartar Sauce Curry Rice","ข้าวแกงกะหรี่
+ไก่ทอดซอสนัมบัง",215
+44,Grilled Cheese Curry Rice,ข้าวแกงกะหรี่ ชีสย่าง,180
+45,Beef Teppanyaki Curry Rice,ข้าวแกงกะหรี่ เนื้อผัดซอส,250
+46,Wagyu Beef Curry Rice with Raw Egg,ข้าวแกงกะหรี่ วากิวอะบุริ,400
+47,Fried Pork Ginger Sauce Curry Rice,ข้าวแกงกะหรี่ หมูผัดซอสขิง,215
+48,Soft Boiled Egg Curry Rice,ข้าวแกงกะหรี่ ไข่ออนเซ็น,175
+49,Raw Egg Curry Rice,ข้าวแกงกะหรี่ ไข่ดิบ,160
+50,Teriyaki Chicken Curry Rice,ข้าวแกงกะหรี่ ไก่เทอริยากิ,185
